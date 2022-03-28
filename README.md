@@ -22,6 +22,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<h2 align="center">Introduction</h3>
+<h3 align="center">I am an IT student specialize in Back-end web designing and programming. While in college, I had exposed to alot up popular frameworks and programming language.</h3>
 ---
 
 ### :woman_technologist: About Me :
