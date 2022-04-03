@@ -44,7 +44,7 @@
 
 - 📄 Know about my experiences [https://github.com/huybaoash/WebRaoTin](https://github.com/huybaoash/WebRaoTin)
 
-- ⚡ Fun fact **I work extremely hard, just to be lazy.**
+- ⚡ Fun fact **I like writing some stort stories during my free time.**
 
 ---
 
